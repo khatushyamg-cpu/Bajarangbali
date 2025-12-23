@@ -1,0 +1,7 @@
+{
+  "name": "Hanuman Bhakti - Digital Chalisa & Spiritual Hub",
+  "description": "A visually stunning and authentic digital experience for the Hanuman Chalisa, featuring verse reflections, a 108-names counter, and a Vedic-inspired spiritual hub.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

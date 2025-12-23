@@ -1,0 +1,55 @@
+
+import { Verse } from './types';
+
+export const CHALISA_VERSES: Verse[] = [
+  { id: 1, hindi: "॥ दोहा ॥\nश्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि।\nबरनऊँ रघुबर बिमल जसु जो दायकु फल चारि॥", transliteration: "Shri Guru Charana Saroja Raja...", translation: "Having cleansed the mirror of my mind with the dust of the lotus feet of Shri Guru, I describe the pure glory of Lord Rama, which bestows the four fruits of life." },
+  { id: 2, hindi: "बुद्धिहीन तनु जानिके सुमिरौं पवन-कुमार।\nबल बुधि बिद्या देहु मोहिं हरहु कलेस बिकार॥", transliteration: "Buddhi Heena Tanu Janike...", translation: "Knowing myself to be devoid of intelligence, I meditate upon you, O Son of the Wind. Grant me strength, wisdom, and knowledge." },
+  { id: 3, hindi: "॥ चौपाई ॥\nजय हनुमान ज्ञान गुन सागर।\nजय कपीस तिहुँ लोक उजागर॥", transliteration: "Jaya Hanumana Gyana Guna Sagara...", translation: "Victory to Hanuman, the ocean of wisdom and virtue! Victory to the Lord of Monkeys, who illuminates the three worlds!" },
+  { id: 4, hindi: "राम दूत अतुलित बल धामा।\nअंजनि-पुत्र पवनसुत नामा॥", transliteration: "Rama Duta Atulita Bala Dhama...", translation: "You are the messenger of Lord Rama, the abode of incomparable strength. You are known as the son of Anjani and the Wind God." },
+  { id: 5, hindi: "महाबीर बिक्रम बजरंगी।\nकुमति निवार सुमति के संगी॥", transliteration: "Mahabira Bikrama Bajarangi...", translation: "O Great Hero, valiant and powerful as a thunderbolt! You are the dispeller of evil thoughts and the companion of the wise." },
+  { id: 6, hindi: "कंचन बरन बिराज सुबेसा।\nकानन कुंडल कुंचित केसा॥", transliteration: "Kanchana Barana Biraja Subesa...", translation: "Your golden complexion is beautiful. You wear ear-rings and have lovely curly hair." },
+  { id: 7, hindi: "हाथ बज्र औ ध्वजा बिराजै।\nकाँधे मूँज जनेऊ साजै॥", transliteration: "Hatha Bajra Au Dhvaja Birajai...", translation: "In your hands, you hold the thunderbolt and the flag. The sacred thread of Munja grass adorns your shoulder." },
+  { id: 8, hindi: "संकर सुवन केसरीनंदन।\nतेज प्रताप महा जग बंदन॥", transliteration: "Sankara Suvana Kesarinandana...", translation: "O incarnation of Shiva and son of Kesari! Your glory and valor are worshiped by the entire world." },
+  { id: 9, hindi: "बिद्यावान गुनी अति चातुर।\nराम काज करिबे को आतुर॥", transliteration: "Bidyavana Guni Ati Chatura...", translation: "You are highly learned, virtuous, and clever. You are always eager to serve Lord Rama." },
+  { id: 10, hindi: "प्रभु चरित्र सुनिबे को रसिया।\nराम लखन सीता मन बसिया॥", transliteration: "Prabhu Charitra Sunibe Ko Rasiya...", translation: "You take delight in listening to the stories of the Lord. Rama, Lakshmana, and Sita reside in your heart." },
+  { id: 11, hindi: "सूक्ष्म रूप धरि सियहिं दिखावा।\nबिकट रूप धरि लंक जरावा॥", transliteration: "Sukshma Rupa Dhari Siyahin Dikhava...", translation: "You appeared before Sita in a tiny form, but assumed a terrifying form to burn the city of Lanka." },
+  { id: 12, hindi: "भीम रूप धरि असुर सँहारे।\nरामचंद्र के काज सँवारे॥", transliteration: "Bhima Rupa Dhari Asura Sanhare...", translation: "Assuming a gigantic form, you destroyed the demons and accomplished the tasks of Lord Rama." },
+  { id: 13, hindi: "लाय सजीवन लखन जियाये।\nश्रीरघुबीर हरषि उर लाये॥", transliteration: "Laya Sajivana Lakhana Jiyaye...", translation: "You brought the Sanjivani herb and revived Lakshmana. Lord Rama embraced you with great joy." },
+  { id: 14, hindi: "रघुपति कीन्ही बहुत बड़ाई।\nतुम मम प्रिय भरतहि सम भाई॥", transliteration: "Raghupati Kinhi Bahuta Badai...", translation: "Lord Rama praised you greatly, saying, 'You are as dear to me as my brother Bharata.'" },
+  { id: 15, hindi: "सहस बदन तुम्हरो जस गावैं।\nअस कहि श्रीपति कंठ लगावैं॥", transliteration: "Sahasa Badana Tumharo Jasa Gavain...", translation: "May the thousand-mouthed serpent sing your glory! Saying this, the Lord of Lakshmi embraced you." },
+  { id: 16, hindi: "सनकादिक ब्रह्मादि मुनीसा।\nनारद सारद सहित अहीसा॥", transliteration: "Sanakadika Brahmadika Munisa...", translation: "Sanaka and other sages, Brahma and other gods, Narada, Sarada, and the King of Serpents sing your praise." },
+  { id: 17, hindi: "जम कुबेर दिगपाल जहाँ ते।\nकबि कोबिद कहि सके कहाँ ते॥", transliteration: "Jama Kubera Digapala Jahan Te...", translation: "Yama, Kubera, and the guardians of the directions cannot describe your glory. How then can poets and scholars?" },
+  { id: 18, hindi: "तुम उपकार सुग्रीवहिं कीन्हा।\nराम मिलाय राज पद दीन्हा॥", transliteration: "Tuma Upakara Sugrivahin Kinha...", translation: "You helped Sugriva by introducing him to Rama, thereby securing the kingdom for him." },
+  { id: 19, hindi: "तुम्हरो मंत्र बिभीषन माना।\nलंकेस्वर भए सब जग जाना॥", transliteration: "Tumharo Mantra Bibhishana Mana...", translation: "Vibhishana followed your advice and became the King of Lanka, as the whole world knows." },
+  { id: 20, hindi: "जुग सहस्र जोजन पर भानू।\nलील्यो ताहि मधुर फल जानू॥", transliteration: "Juga Sahasra Jojana Para Bhanu...", translation: "Though the sun is thousands of miles away, you leaped and swallowed it, thinking it was a sweet fruit." },
+  { id: 21, hindi: "प्रभु मुद्रिका मेलि मुख माहीं।\nजलधि लाँघि गये अचरज नाहीं॥", transliteration: "Prabhu Mudrika Meli Mukha Mahin...", translation: "Carrying the Lord's ring in your mouth, you leaped across the ocean; it is no wonder." },
+  { id: 22, hindi: "दुर्गम काज जगत के जेते।\nसुगम अनुग्रह तुम्हरे तेते॥", transliteration: "Durgama Kaja Jagata Ke Jete...", translation: "All difficult tasks in the world become easy through your grace." },
+  { id: 23, hindi: "राम दुआरे तुम रखवारे।\nहोत न आज्ञा बिनु पैसारे॥", transliteration: "Rama Duare Tuma Rakhavare...", translation: "You are the gatekeeper of Rama's court. No one can enter without your permission." },
+  { id: 24, hindi: "सब सुख लहै तुम्हारी सरना।\nतुम रच्छक काहू को डर ना॥", transliteration: "Saba Sukha Lahai Tumhari Sarana...", translation: "All happiness is found in your shelter. When you are the protector, there is no reason to fear." },
+  { id: 25, hindi: "आपन तेज सम्हारो आपै।\nतीनों लोक हाँक ते काँपै॥", transliteration: "Apana Teja Samharo Apai...", translation: "Only you can control your own brilliance. All three worlds tremble at your roar." },
+  { id: 26, hindi: "भूत पिसाच निकट नहिं आवै।\nमहाबीर जब नाम सुनावै॥", transliteration: "Bhuta Pisacha Nikata Nahin Avai...", translation: "Ghosts and evil spirits stay away when the name of Mahavira is chanted." },
+  { id: 27, hindi: "नासै रोग हरै सब पीरा।\nजपत निरंतर हनुमत बीरा॥", transliteration: "Nasai Roga Harai Saba Pira...", translation: "Diseases are destroyed and all pains vanish when one continuously chants the name of the brave Hanuman." },
+  { id: 28, hindi: "संकट तें हनुमान छुड़ावै।\nमन क्रम बचन ध्यान जो लावै॥", transliteration: "Sankata Ten Hanumana Chhudavai...", translation: "Hanuman delivers from all troubles those who meditate upon him in thought, word, and deed." },
+  { id: 29, hindi: "सब पर राम तपस्वी राजा।\nतिन के काज सकल तुम साजा॥", transliteration: "Saba Para Rama Tapasvi Raja...", translation: "Rama is the supreme ascetic King, and you accomplished all his tasks." },
+  { id: 30, hindi: "और मनोरथ जो कोइ लावै।\nसोइ अमित जीवन फल पावै॥", transliteration: "Aura Manoratha Jo Koi Lavai...", translation: "Whoever comes to you with any desire gains the ultimate fruit of life." },
+  { id: 31, hindi: "चारों जुग परताप तुम्हारा।\nहै परसिद्ध जगत उजियारा॥", transliteration: "Charon Juga Pratapa Tumhara...", translation: "Your glory extends over all four ages, and your fame illuminates the entire world." },
+  { id: 32, hindi: "साधु संत के तुम रखवारे।\nअसुर निकंदन राम दुलारे॥", transliteration: "Sadhu Santa Ke Tuma Rakhavare...", translation: "You are the protector of sages and saints, the destroyer of demons, and the beloved of Rama." },
+  { id: 33, hindi: "अष्ट सिद्धि नौ निधि के दाता।\nअस बर दीन जानकी माता॥", transliteration: "Ashta Siddhi Nau Nidhi Ke Data...", translation: "Mother Sita granted you a boon that you may bestow the eight psychic powers and nine types of wealth." },
+  { id: 34, hindi: "राम रसायन तुम्हरे पासा।\nसदा रहो रघुपति के दासा॥", transliteration: "Rama Rasayana Tumhare Pasa...", translation: "You possess the elixir of Rama's devotion. May you always remain the servant of Lord Rama." },
+  { id: 35, hindi: "तुम्हरे भजन राम को पावै।\nजनम जनम के दुख बिसरावै॥", transliteration: "Tumhare Bhajana Rama Ko Pavai...", translation: "By worshiping you, one finds Rama and forgets the sufferings of many births." },
+  { id: 36, hindi: "अंत काल रघुबर पुर जाई।\nजहाँ जन्म हरि-भक्त कहाई॥", transliteration: "Anta Kala Raghubara Pura Jai...", translation: "At the end of life, such a person goes to the abode of Rama and is known as a devotee of Hari." },
+  { id: 37, hindi: "और देवता चित्त न धरई।\nहनुमत सेइ सर्ब सुख करई॥", transliteration: "Aura Devata Chitta Na Dharai...", translation: "One need not worship any other deity; serving Hanuman alone brings all happiness." },
+  { id: 38, hindi: "संकट कटै मिटै सब पीरा।\nजो सुमिरै हनुमत बलबीरा॥", transliteration: "Sankata Katai Mitai Saba Pira...", translation: "All troubles and pains vanish for those who remember the mighty Hanuman." },
+  { id: 39, hindi: "जय जय जय हनुमान गोसाईं।\nकृपा करहु गुरु देब की नाईं॥", transliteration: "Jaya Jaya Jaya Hanumana Gosain...", translation: "Hail, hail, hail to you, Lord Hanuman! Bestow your grace upon me like a divine Guru." },
+  { id: 40, hindi: "जो सत बार पाठ कर कोई।\nछूटहि बंदि महा सुख होई॥", transliteration: "Jo Sata Bara Patha Kara Koi...", translation: "Whoever recites this a hundred times is released from bondage and attains great happiness." },
+  { id: 41, hindi: "जो यह पढ़ै हनुमान चलीसा।\nहोय सिद्धि साखी गौरीसा॥", transliteration: "Jo Yaha Padhai Hanumana Chalisa...", translation: "Whoever reads this Hanuman Chalisa attains success, as Lord Shiva himself is the witness." },
+  { id: 42, hindi: "तुलसीदास सदा हरि चेरा।\nकीजै नाथ हृदय महँ डेरा॥", transliteration: "Tulasidasa Sada Hari Chera...", translation: "Tulsidas is ever the servant of the Lord. O Master, reside always in my heart." },
+  { id: 43, hindi: "॥ दोहा ॥\nपवनतनय संकट हरन मंगल मूरति रूप।\nराम लखन सीता सहित हृदय बसहु सुर भूप॥", transliteration: "Pavanatanaya Sankata Harana...", translation: "O Son of the Wind, the banisher of troubles and the embodiment of auspiciousness! Reside in my heart along with Rama, Lakshmana, and Sita." }
+];
+
+export const HANUMAN_NAMES: string[] = [
+    "Hanuman", "Anjaneya", "Bajrangbali", "Mahavira", "Maruti", "Pavanputra", "Kesarinandan", 
+    "Sankat Mochan", "Ramabhakta", "Bajarangi", "Jitendriya", "Mahakaya", "Vajradeha", 
+    "Suryasuta", "Atulita-Bala", "Prananatha", "Kapishvara", "Shiva-Vira", "Dhiratman",
+    "Ramadhuta", "Pingaksha", "Sita-Shoka-Vinashana", "Aksha-Hantre", "Dashagriva-Kulantaka"
+];
